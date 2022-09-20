@@ -21,4 +21,12 @@ $(document).ready(function(){
     return false;
     });
 
+$('.links').mouseover(function(){
+    var collor = $(this).attr('data-color');
+    var title = $(this).attr('data-title');
+    $('bg-transparenter').css('background',collor);
+    $('.header-empty')
+    )
+});
+
 });

@@ -1,4 +1,4 @@
-##Pizza Restaurant
+##PizzaRestaurant
 Сайт ресторана-пиццерии
 ##Используемые технологии:
 -HTML
